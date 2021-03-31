@@ -7,3 +7,9 @@ https://www-2.rotman.utoronto.ca/~hull/Second%20edition%20Online%20Files/index2n
 
 의 내용을 재구성한 것입니다. 
 
+다음 John Hull 교수의 유투브 클립은 좋은 introduction을 제공할 것입니다. 
+
+https://www.youtube.com/watch?v=PTtrhWX7AeQ
+
+
+
