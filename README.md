@@ -3,6 +3,6 @@
 
 본 내용은 독자들의 편의를 위해서 
 https://www-2.rotman.utoronto.ca/~hull/Second%20edition%20Online%20Files/index2ndEd.html
-의 내용을 재구성한 것이빈다.
+의 내용을 재구성한 것입니다.
 
 
